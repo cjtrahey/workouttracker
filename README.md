@@ -15,10 +15,6 @@ The workout tracker is an application that has usage for both learning and integ
 
 </center>
 
-* The workout tracker
-
-<center>
-
 * The user inputs their workout data in a list of prompts
 * then they submit the entry
 * after that, they can view their progress at any time.
