@@ -6,7 +6,7 @@
 ## Introduction
 
 </center>
-insert intro for app here
+The workout tracker is an application that has usage for both learning and integrating MongoDB and for personal use as well. 
 
 
 <center>
@@ -15,25 +15,13 @@ insert intro for app here
 
 </center>
 
-* The [Title](https://www.pokemon.com/us/pokedex/) is... (explain what the app does)
+* The workout tracker
 
 <center>
 
-## Solution
-
-</center>
-
-* (insert a solution here)
-
-<center>
-
-## Concept
-
-</center>
-
-* The user...
-* then they...
-* after that, they...
+* The user inputs their workout data in a list of prompts
+* then they submit the entry
+* after that, they can view their progress at any time.
 <p>
 <br>
 (user story)
@@ -44,83 +32,23 @@ insert intro for app here
 
 </center>
 
- * AS 
-* I WANT TO 
-* SO THAT I 
+ * AS a user
+* I WANT TO to be able to view create and track daily workouts
+* SO THAT I can view my progress as time goes on.
 
-
-<center>
-
-## Simplified Mechanics
-
-</center>
-
-* This project...
-<p>
-<br>
-The following script... 
-
-```
-//(insert an important snippet of code)
-
-```
-
-```
-
-// (insert an important snippet of code)
-
-```
-
-<center>
 
 ## Technologies
 
 </center>
 
-The following technologies were used in the creation of this group project:
-* HTML
-* CSS
+The following technology is featured in this project:
 * JavaScript
-* (others)
+* MongoDB
+* Atlas
 
 <center>
 
-## Example
-
-</center>
-    
-<p><br>
-Wireframe proposal:
-<p><br>
-    
-![image info](./assets/images/actual-wireframe.png)
-(screenshot of the wireframe)
-
-<p><br>
-
-Final Project:
-<br>
-
-![image info](./assets/images/app_photo_one_screen.png)
-(screenshot of the app)
 
 
-<center>
 
-## Future Technologies
 
-</center>
-
-In the future, further development on this project would include:
-
-* (insert 3 instances of things that can be improved)
-
-## Documentation
-
-> [Slideshow Presentation](link)
-> (other sources we used)
-<p>
-<br>
-<center>
-(lisense)
-</center>
